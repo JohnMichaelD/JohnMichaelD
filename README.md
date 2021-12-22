@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a fullstack app that tracks your contact lens usage. [Check it out!](https://johnmichaeld.github.io/contact-Solution/)
 - 🌱 I’m currently learning React.js and Bootstrap, while practicing JavaScript ES6, HTML5, CSS3!
-- 👨‍💻 Open to work opportunities!
+- 👨‍💻 Open to work opportunities! Check out my [portfolio](johnmdarrin.com)!
 
 
 <!--
