@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm John 👋
+
+- 🔭 I’m currently working on a fullstack app that tracks your contact lens usage. [Check it out!](https://johnmichaeld.github.io/contact-Solution/)
+- 🌱 I’m currently learning React.js and Bootstrap, while practicing JavaScriptES6, HTML5, CSS3!
+
 
 <!--
 **JohnMichaelD/JohnMichaelD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
