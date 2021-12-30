@@ -1,4 +1,4 @@
-### Hi there, I'm John 👋
+# Hi there, I'm John 👋
 
 - 🔭 I’m currently working on a fullstack app that tracks your contact lens usage. [Check it out!](https://johnmichaeld.github.io/contact-Solution/)
 - 🌱 I’m currently learning React.js, three.js and Bootstrap, while practicing my skills JavaScript ES6, HTML5, CSS3!
