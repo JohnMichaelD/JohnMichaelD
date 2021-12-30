@@ -1,9 +1,13 @@
-# Hi there, I'm John 👋
+<div align="center">
+  # Hi there, I'm John 👋
+</div>
+
+I'm a full stack developer with an eye for design. I enjoy building all sorts of projects, and super passionate in making sure it not only looks good, but works well! When I'm not coding, I spend most of my time outdoors, scuba diving, or enjoying the arts!
+
 
 - 🔭 I’m currently working on a fullstack app that tracks your contact lens usage. [Check it out!](https://johnmichaeld.github.io/contact-Solution/)
-- 🌱 I’m currently learning React.js, three.js and Bootstrap, while practicing my skills JavaScript ES6, HTML5, CSS3!
-- 👨‍💻 Open to work opportunities! Check out my [portfolio](https://johnmichaeld.github.io/portfolio/)!
-
+- 🌱 I’m currently learning React.js, Three.js and Bootstrap, while practicing my skills JavaScript ES6, HTML5, CSS3!
+- 👨‍💻 Open to work opportunities! Check out my [portfolio](https://johnmichaeld.github.io/portfolio/)! 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
