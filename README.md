@@ -5,9 +5,6 @@
 - 👨‍💻 Open to work opportunities! Check out my [portfolio](https://johnmichaeld.github.io/portfolio/)!
 
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-darrin/)
-
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
