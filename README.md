@@ -1,5 +1,5 @@
 <div align="center">
-  # Hi there, I'm John 👋
+  #Hi there, I'm John 👋
 </div>
 
 I'm a full stack developer with an eye for design. I enjoy building all sorts of projects, and super passionate in making sure it not only looks good, but works well! When I'm not coding, I spend most of my time outdoors, scuba diving, or enjoying the arts!
