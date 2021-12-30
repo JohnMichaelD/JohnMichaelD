@@ -1,10 +1,11 @@
 ### Hi there, I'm John 👋
 
 - 🔭 I’m currently working on a fullstack app that tracks your contact lens usage. [Check it out!](https://johnmichaeld.github.io/contact-Solution/)
-- 🌱 I’m currently learning React.js, three.js and Bootstrap, while practicing JavaScript ES6, HTML5, CSS3!
+- 🌱 I’m currently learning React.js, three.js and Bootstrap, while practicing my skills JavaScript ES6, HTML5, CSS3!
 - 👨‍💻 Open to work opportunities! Check out my [portfolio](https://johnmichaeld.github.io/portfolio/)!
 
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-darrin/)
 <!--
 **JohnMichaelD/JohnMichaelD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
