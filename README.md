@@ -17,3 +17,6 @@ I'm a full stack developer with an eye for design. I enjoy building all sorts of
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.darrin1@gmail.com)
   
 </div>
+
+
+![image](https://www.codewars.com/users/GonzoJMD/badges/small)
