@@ -8,6 +8,7 @@ I'm a full stack developer with an eye for design. I enjoy building all sorts of
 - 🌱 I’m currently learning React.js, Three.js and Bootstrap, while practicing my skills in JavaScript ES6, HTML5, CSS3!
 - ⚡ Fun fact: I'm a cave diver & scuba instructor!
 - 👨‍💻 Open to work opportunities! Check out my [portfolio](https://johnmichaeld.github.io/portfolio/)! 
+- 🌎 2022 Goal: Contributre more to Open Source Projects
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
