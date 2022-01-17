@@ -1,7 +1,7 @@
 
   # Hi there, I'm John 👋
 
-I'm a full stack developer with an eye for design. I enjoy building all sorts of projects, and I'm super passionate in making sure it not only looks good, but also works as intended! When I'm not coding, I spend most of my time outdoors, scuba diving, or enjoying the arts! 
+I'm a full stack developer with an eye for design. I enjoy building all sorts of projects, and I'm super passionate in making sure it not only looks good, but also works responsively! When I'm not coding, I spend most of my time outdoors, or underwater! 
 
 
 - 🔭 I’m currently working on a fullstack app that tracks your contact lens usage. [Check it out!](https://johnmichaeld.github.io/contact-Solution/)
