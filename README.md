@@ -1,14 +1,6 @@
 
   # Hi there, I'm John 👋
-
-
-
-- 🔭 I’m currently working on a fullstack app that tracks your contact lens usage. [Check it out!](https://johnmichaeld.github.io/contact-Solution/)
-- 🌱 I’m currently learning React.js, Three.js and Bootstrap, while practicing my skills in JavaScript ES6, HTML5, CSS3!
-- ⚡ Fun fact: I'm a cave diver & scuba instructor!
-- 👨‍💻 Open to work opportunities! Check out my [portfolio](https://johnmichaeld.github.io/portfolio/)! 
-- 🌎 A 2022 Goal: Contribute more to Open Source Projects!
-
+  
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
